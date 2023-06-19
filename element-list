@@ -1,0 +1,13 @@
+ru.nubowski.timeTracker
+ru.nubowski.timeTracker.config
+ru.nubowski.timeTracker.controller
+ru.nubowski.timeTracker.dto
+ru.nubowski.timeTracker.dto.request
+ru.nubowski.timeTracker.dto.response
+ru.nubowski.timeTracker.exception
+ru.nubowski.timeTracker.mapper
+ru.nubowski.timeTracker.model
+ru.nubowski.timeTracker.repository
+ru.nubowski.timeTracker.service
+ru.nubowski.timeTracker.service.impl
+ru.nubowski.timeTracker.util
